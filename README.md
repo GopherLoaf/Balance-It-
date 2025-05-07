@@ -11,7 +11,7 @@ Microgames
  - Dots: You need to pick the side with less black squares.
  - A Normal Day: The guy will go through good and bad events. You need to choose whether a good or bad event should happen to them so an equal amount of good and bad has happened to them.
  - Ones and Zeroes: +1s, -1s, and 0s approach a box. You need to figure out how much the box increased or decreased by and then choose the appropriate amount to add or subtract to make it equal zero.
- - Sculpting: Remember the right sculpture and copy it.
+ - Sculpting: Memorize the right sculpture and copy it.
  - Seesaw: Pick the option with an equal amount of squares as the one on the right side of the seesaw.
  - Strength Puzzle: Copy the right side. Both the boulders and player character need to be in the same positions. Don't forget to use space to confirm your answer.
  - Tightrope: Just follow the arrows.
